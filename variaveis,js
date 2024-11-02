@@ -1,0 +1,27 @@
+// let é uma variavel
+let nome 
+// atribuir valor ou inicializar variavel 
+nome = "Alan"
+console.log(nome)
+sobrenome = "Cleber"
+console.log(sobrenome)
+// para tramsformar tudo em comentario é crtl+:^
+// para declarar uma varial usa-se let
+let cpf
+//atribuindo um valor 
+cpf = "000.000.000.00"
+console.log(cpf)
+
+let endereco ="São Paulo"
+console.log(endereco)
+
+const cpf1 ="123.456.789-99"
+console.log(cpf1)
+ 
+let enderecoantigo= ("Brazil")
+console.log(enderecoantigo)
+
+//alt seta p cima seleciona tudo o que voce precisa mover
+
+ 
+
